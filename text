@@ -25,4 +25,18 @@ To push the current branch and set the remote as upstream, use
 
 
 
+>git commit -m "added git commands"
+On branch development
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   text
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+D:\Vue_demo_public>git add D:\Vue_demo_public\text
+
+
+
+
 
