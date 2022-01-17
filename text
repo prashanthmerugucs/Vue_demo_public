@@ -1,1 +1,27 @@
-jhghjghj
+to clone project  into local machine
+
+>git clone https://github.com/prashanthmerugucs/Vue_Demo.git
+
+
+To set your global username/email configuration:
+Open the command line.
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+
+git status
+
+
+before commit files required to bo moved to staged Changes
+git commit -m "Initial Commit"
+
+git push
+
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+
+
